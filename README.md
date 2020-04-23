@@ -4,3 +4,4 @@ This is a program to randomly generate a basic melody. Notes, rests, and values 
 Compile: javac Main.java
 -------------------------
 Run: java Main
+--------------------------
